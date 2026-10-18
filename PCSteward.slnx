@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Steward.App/Steward.App.csproj" />
+    <Project Path="src/Steward.Cli/Steward.Cli.csproj" />
+    <Project Path="src/Steward.Core/Steward.Core.csproj" />
+    <Project Path="src/Steward.Windows/Steward.Windows.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Steward.Tests/Steward.Tests.csproj" />
+    <Project Path="tests/Steward.UiTests/Steward.UiTests.csproj" />
+  </Folder>
+</Solution>
